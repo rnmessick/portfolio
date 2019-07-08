@@ -230,7 +230,7 @@
 				}
 
 					#headerToggle .toggle:before {
-						font-family: FontAwesome;
+						font-family: 'Barlow Condensed', sans-serif;
 						text-decoration: none;
 						font-style: normal;
 						font-weight: normal;
